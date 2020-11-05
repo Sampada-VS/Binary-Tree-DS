@@ -9,5 +9,6 @@ public class BinaryNode<K extends Comparable<K>> {
 		this.key=key;
 		this.left=left;
 		this.right=right;
+		
 	}
 }
